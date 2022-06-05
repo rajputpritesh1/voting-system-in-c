@@ -62,4 +62,6 @@ int main()
         main();
         break;
     }
+
+    getch();
 }
